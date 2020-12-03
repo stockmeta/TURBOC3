@@ -1,0 +1,20 @@
+#include <iostream.h>
+#include <conio.h>
+
+main (void)
+{
+	clrscr ();
+
+	cout<<"                 * * *              * * * * * *      * * *       * * *
+	cout<<"                *     *                  *           *    *     *    *
+	cout<<"               *       *                 *           *     *   *     *
+	cout<<"              *         *                *           *      * *      *
+	cout<<"             *           *               *           *               *
+	cout<<"            * * * * * * * *      *       *           *               *
+	cout<<"            *             *      *       *           *               *
+	cout<<"            *             *      *       *           *               *
+	cout<<"            *             *      * * * *             *               *
+
+	getch ();
+	return 0;
+}
